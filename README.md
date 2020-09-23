@@ -1,4 +1,13 @@
-# p5jsTest-RayCasting
-Test repo to see if i can make a ray-casting simulator with p5.hs
+# P5 raycasting
 
-To play around with this project just open up index.html in a live server(vscode has some nice extensions for this) and move your mouse around!
+This application is a test run of my ability to run and use javascript in order to create a raycasting object
+
+inside of the project we have multiple classes that we will use to build a **_ player like _** object in order to simualte movement though a plain canvas while protruding rays or "sight lines".
+
+At this time there is no unit collison but i will come back to it some day in order to add movement with the arrow keys and wall collision.
+
+- Tech used
+  - P5 js library for drwaing points on a plane/casting rays without the pain
+  - express for the hosting of the server to heroku
+
+[Link to the project in action!](https://p5raycasting.herokuapp.com/)

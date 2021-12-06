@@ -18,4 +18,3 @@ Credit to Daniel Shiffman's coding challenge on raycasting.
 Original solution was replaced with his as it's nicer to look at.
 https://www.youtube.com/watch?v=TOEi6T2mtHo
 
-https://kaffeine.herokuapp.com/
